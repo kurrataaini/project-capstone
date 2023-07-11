@@ -5,6 +5,10 @@ A capstone project as part of IBM artificial intelligence and cybersecurity cour
 - Watson Assistant
 - Watson Discovery
 
-# Document
+# Demo
+You can access the demo by the link below:
+https://kurrataaini.github.io/project-capstone/
 
+# Reference
+disini paper
 Slide Presentation : https://www.canva.com/design/DAFn6ZTzlsY/qTG8dFYBMcsyy3JlgD7GTQ/edit?utm_content=DAFn6ZTzlsY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
